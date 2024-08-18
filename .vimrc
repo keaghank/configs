@@ -11,7 +11,3 @@ set ai
 "Smart indent
 set si
 
-"Margin
-"set foldcolumn=5
-"highlight FoldColumn guibg=White guifg=White
-"set wrapmargin=20

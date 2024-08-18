@@ -7,9 +7,6 @@
 (tooltip-mode -1)           ; Disable tooltips
 (set-fringe-mode 10)        ; Give some breathing room
 (latex-preview-pane-enable)
-;(global-linum-mode t)       ; Line numbers
-
-;(menu-bar-mode -1)            ; Disable the menu bar
 
 ;; Set up the visible bell
 (setq visible-bell t)
