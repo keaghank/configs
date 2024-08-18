@@ -1,1 +1,1 @@
-# configs
+# emacs-vim-zshrc
