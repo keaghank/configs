@@ -13,9 +13,6 @@
 
 (add-to-list 'load-path "~/.emacs.d/etc/themes/")
 
-;(load "mac-classic-theme.el")
-;(load-theme 'mac-classic t)
-
 (load "timu-macos-theme.el")
 (customize-set-variable 'timu-macos-flavour "light")
 (load-theme 'timu-macos t)
